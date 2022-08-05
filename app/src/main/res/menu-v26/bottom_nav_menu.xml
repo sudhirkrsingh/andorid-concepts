@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/card"
+        android:title="Card"
+        app:showAsAction="withText"
+        android:iconTint="@color/deep_sky_blue"
+        android:icon="@drawable/card_icon"/>
+    <item
+        android:id="@+id/rewards"
+        android:title="Rewards"
+        android:iconTint="@color/deep_sky_blue"
+        app:showAsAction="withText"
+        android:icon="@drawable/gift"/>
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:iconTint="@color/deep_sky_blue"
+        app:showAsAction="withText"
+        android:icon="@drawable/home"/>
+    <item
+        android:id="@+id/explore"
+        android:title="Explore"
+        android:iconTint="@color/deep_sky_blue"
+        app:showAsAction="withText"
+        android:icon="@drawable/location_icon"/>
+    <item
+        android:id="@+id/more"
+        android:title="More"
+        android:iconTint="@color/deep_sky_blue"
+        app:showAsAction="withText"
+        android:icon="@drawable/more_icon"/>
+
+</menu>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">ConstraintDesign</string>
+    <string name="n_560008">560008</string>
+    <string name="address">Save Address</string>
+    <string name="other">Other</string>
+    <string name="work">Work</string>
+    <string name="home">Home</string>
+    <string name="location_type">Location Type</string>
+    <string name="landmark">Landmark</string>
+    <string name="address_1">Address</string>
+    <string name="flat_no_floor">Flat Number / Floor</string>
+    <string name="pin_code">Please enter Address of Pin Code</string>
+    <string name="detail">A detailed address will help our Delivery Partner reach your doorstep easily</string>
+    <string name="map_address">#831, Homes Township, BTM Layout, Bangalore – 560008</string>
+    <string name="sel_loc">Selected Location</string>
+    <string name="edit_map">Edit on map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_alert_dailog">AlertDailogActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="back">Exit From App</string>
+    <string name="order_confirmation">Confirmation of your order</string>
+    <string name="ok">OK</string>
+    <string name="no">NO</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
+
